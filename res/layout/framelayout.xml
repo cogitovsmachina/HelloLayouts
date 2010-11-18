@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+    android:id="@+id/widget68"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="40px"
+        android:layout_y="35px"
+        >        
+        <ImageView
+            android:src = "@drawable/androidtitlan_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+        <Button
+            android:layout_width="124px"
+            android:layout_height="wrap_content"
+            android:text="Print Picture"       
+            />
+    </FrameLayout>
+</AbsoluteLayout>
